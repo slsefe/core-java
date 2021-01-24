@@ -1,0 +1,4 @@
+rootProject.name = 'core-java'
+include 'volume-1'
+include 'volume-2'
+
